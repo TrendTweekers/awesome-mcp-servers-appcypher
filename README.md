@@ -152,6 +152,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Automated extraction, transformation, and analysis of information from documents to make their content usable by software systems.
 
 - <img src="https://avatars.githubusercontent.com/u/166614754?s=200&v=4" height="14"/> [Adeu](https://github.com/dealfluence/adeu) - Automated DOCX Redlining Engine and "Virtual DOM" for Microsoft Word. Enables agents to read, diff, edit, and negotiate contracts locally or via live COM interop.
+- <img src="https://avatars.githubusercontent.com/u/224116307?v=4" height="14"/> [MintPDF](https://github.com/TrendTweekers/mintpdf) - Converts HTML or Markdown into a styled PDF, or renders a public URL to PDF, and returns a download link. Free tier needs no signup.
 
 
 <br />
